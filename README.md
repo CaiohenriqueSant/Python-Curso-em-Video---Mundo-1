@@ -2,7 +2,7 @@
 
 Repositório criado para organizar meus estudos de Python baseados no curso do **Gustavo Guanabara (Curso em Vídeo)**.
 
-## 🚀 O que eu aprendi até agora:
+##  O que eu aprendi até agora:
 * Tratamento de dados e fatiamento de Strings.
 * Operações matemáticas e lógica de programação.
 * Ainda aprendendo a usar o GIT e GITHUB

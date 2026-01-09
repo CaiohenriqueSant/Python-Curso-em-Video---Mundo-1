@@ -4,7 +4,7 @@ import math
 nome = input('Qual o nome da peça?: ').strip().upper()
 sem_espaço = nome.replace(' ','')
 total_letras = len(sem_espaço)
-print (total_letras)
+print(total_letras)
 valor = 12.50
 quantidade = valor * 15
 print('Se o {} vale {:.2f} para comprar 15 deles o valor fica em {:.2f}'.format(nome, valor, quantidade))

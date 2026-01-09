@@ -3,4 +3,4 @@ dinheiro = float(input('quantos reais você tem na carteira?: '))
 
 dolar = dinheiro/3.27
 
-print ('Com {} reais, você pode comprar {:.2f} dólares'.format(dinheiro,dolar))
+print('Com {} reais, você pode comprar {:.2f} dólares'.format(dinheiro,dolar))

@@ -4,4 +4,4 @@ nota2 = float(input('Qual a segunda nota do aluno? '))
 
 media = (nota1+nota2)/2
 
-print ('A média desse aluno é {}'.format(media))
+print('A média desse aluno é {}'.format(media))

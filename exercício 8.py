@@ -4,5 +4,5 @@ metros = float(input('qual a quantidade de metros? '))
 centimetros = metros*100
 milimetros = metros*1000
 
-print ('Centimetros: {}'.format(centimetros))
-print ('Milimetros: {}'.format(milimetros))
+print('Centimetros: {}'.format(centimetros))
+print('Milimetros: {}'.format(milimetros))

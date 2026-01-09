@@ -9,4 +9,4 @@ nome4 = input("Digite o nome do quarto Operador: ")
 lista = [nome1, nome2, nome3, nome4]
 escolha = random.choice(lista)
 
-print ('O operador do dia será: {}'.format(escolha))
+print('O operador do dia será: {}'.format(escolha))

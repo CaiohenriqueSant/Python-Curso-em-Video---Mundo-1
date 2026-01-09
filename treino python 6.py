@@ -10,10 +10,7 @@ usuario = email[:arroba].upper()
 if dominio == 'GMAIL.COM':
     print('Seu usuário é: {}'.format(usuario))
 else:
-    numeros = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-    resultado = "".join(map(str, random.choices(numeros, k=4)))
-    usuarionum = usuario + resultado
-    print('Seu usuário é: {}'.format(usuarionum))
-
-
-
+    num = random.randint(0, 9999)
+    sufixo = "{:04d}".format(num)
+    resultado = usuario + str(sufixo)
+    print('Seu usuário é: {}'.format(resultado))

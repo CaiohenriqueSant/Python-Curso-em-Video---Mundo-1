@@ -11,6 +11,6 @@ if dominio == 'GMAIL.COM':
     print('Seu usuário é: {}'.format(usuario))
 else:
     num = random.randint(0, 9999)
-    sufixo = "{:04d}".format(num)
-    resultado = usuario + str(sufixo)
+    limite = "{:04d}".format(num)
+    resultado = usuario + str(limite)
     print('Seu usuário é: {}'.format(resultado))

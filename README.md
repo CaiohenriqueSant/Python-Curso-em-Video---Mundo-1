@@ -6,6 +6,7 @@ Repositório criado para organizar meus estudos de Python baseados no curso do *
 * Tratamento de dados e fatiamento de Strings.
 * Operações matemáticas e lógica de programação.
 * Ainda aprendendo a usar o GIT e GITHUB
+* Aprendi a usar While, Try e Except e descobri a função sorted
 
 ##  Organização
 Os arquivos estão numerados conforme a ordem dos desafios propostos no curso.
